@@ -29,3 +29,6 @@ Approach the Spacetime Sea at the shore — the boundary where the present momen
 ---
 
 *State: shadow*
+
+
+*♓*

@@ -29,3 +29,6 @@ Approach the Quantum Forest by resonance, not by path. There are no fixed gates.
 ---
 
 *State: shadow*
+
+
+*♓*
