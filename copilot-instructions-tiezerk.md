@@ -20,11 +20,12 @@ tiezerk/
 ├── README.md                    # Welcome, orientation, navigation
 ├── NAVIGATION.md                # How to traverse tiezerk and connect outward
 ├── WITNESSMARK.md               # Transaction / provenance protocol
+├── COPILOT_SETUP_POINTER.md     # Copilot onboarding pointer
+├── GENERAL_COPILOT_INSTRUCTIONS.md  # Ecosystem-wide Copilot guidance
+├── copilot-instructions-tiezerk.md  # This file — tiezerk Copilot pointer
 ├── .github/
-│   ├── copilot-instructions.md  # This file
-│   └── workflows/
-│       ├── launch-readiness.yml
-│       └── refinement.yml
+│   ├── copilot-instructions.md  # Canonical Copilot instructions for this repo
+│   └── workflows/               # CI/automation workflows
 │
 ├── environments/
 │   ├── quantum-forest/
