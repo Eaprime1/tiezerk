@@ -1,7 +1,7 @@
 # GENERAL_COPILOT_INSTRUCTIONS — eaprime1 / UNEXUS Ecosystem
 
 These principles apply to **every** repository in the `eaprime1 / UNEXUS` ecosystem.  
-Each repo also carries its own `copilot-instructions.md` for repo-specific overrides.
+Each repo also carries its own `.github/copilot-instructions.md` for repo-specific overrides.
 
 ---
 
