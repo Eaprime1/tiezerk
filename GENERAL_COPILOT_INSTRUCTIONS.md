@@ -1,7 +1,7 @@
 # GENERAL_COPILOT_INSTRUCTIONS — eaprime1 / UNEXUS Ecosystem
 
 These principles apply to **every** repository in the `eaprime1 / UNEXUS` ecosystem.  
-Each repo also carries its own `copilot-instructions.md` for repo-specific overrides.
+Each repo also carries its own `.github/copilot-instructions.md` for repo-specific overrides.
 
 ---
 
@@ -44,14 +44,15 @@ a deliberate acknowledgement that the content has been reviewed and is ready.
 | Commit messages | `[type]: [environment] — [description]` | `feat: void-marrow — seed initial structure` |
 | Branch names | `feature/[environment]-[aspect]` | `feature/tablerock-foundation` |
 | Workflow files | lowercase-kebab-case | `dependency-review.yml` |
-| Action versions | Pinned to major tag | `actions/checkout@v4` |
+| Action versions | GitHub-maintained: major tag; third-party: full commit SHA | `actions/checkout@v4` / `codacy/codacy-analysis-cli-action@d840f886c4bd...` |
 
 ---
 
 ## Security and Workflow Standards
 
 - All GitHub Actions workflows live in `.github/workflows/`.
-- Pin all third-party actions to a major version tag (e.g., `@v4`).
+- Pin **GitHub-maintained actions** (e.g., `actions/*`, `github/*`) to a major version tag (e.g., `@v4`) for readability and automatic patch updates.
+- Pin **third-party actions** to a full commit SHA (e.g., `someorg/action@abc1234...`) for supply-chain security — never rely on a mutable tag for untrusted publishers.
 - Add `permissions` blocks to limit token scope to the minimum required.
 - Add `timeout-minutes` to every job to prevent runaway workflows.
 - Use `concurrency` groups to avoid overlapping runs on the same branch.
@@ -79,4 +80,17 @@ a deliberate acknowledgement that the content has been reviewed and is ready.
 
 ---
 
-*One Hertz. What you seed will grow.*
+## Improvement Ideas & Notes
+
+> *These are shadow-state seeds — directions to explore, not mandates to execute.*
+
+- **Layer status indicators** — consider a lightweight badge or frontmatter field in each document marking its lifecycle stage (shadow / emerging / witnessmarked).
+- **Cross-repo reference protocol** — define a standard linking syntax for referring to content in sibling repos (e.g., `[[ashkharh:entity-name]]`) so agents don't accidentally duplicate or relocate content.
+- **Witnessmark template** — create a canonical Witnessmark block that contributors can paste at the end of a document before it moves to the public branch.
+- **Automated link validation** — a GitHub Actions workflow that verifies all internal `[[...]]` and file-path references resolve on every PR.
+- **Copilot review checklist** — a reusable pull-request template (`PULL_REQUEST_TEMPLATE.md`) that surfaces the Witnessmark gate, layer-check, and security advisory scan as required checklist items.
+- **Timestamp linter** — a lightweight CI step that rejects any document timestamp not matching `YYYYMMDDHHMMSS` to enforce consistency.
+
+---
+
+*One Hertz. What you seed will grow.* ♓
