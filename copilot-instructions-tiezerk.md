@@ -123,7 +123,7 @@ Every environment/concept document should include:
 
 ### Commit Message Format
 ```
-[type]: [scope] — [brief description]
+[type]: [environment] — [brief description]
 
 feat: quantum-forest — add field resonance properties
 doc: spacetime-sea — navigation protocol draft
