@@ -1,45 +1,17 @@
-# 🌌 tiezerk — Copilot Instructions
-## Universal Concepts Repository
+# tiezerk Copilot Instructions Pointer
 
----
+This file intentionally avoids duplicating repository instructions.
 
-## What tiezerk IS
+The canonical Copilot instructions for this repository are maintained in:
 
-tiezerk is the **universal concepts repository** within the eaprime1 / UNEXUS ecosystem.
-It holds the foundational, cosmic-scale frameworks that underpin everything else —
-environments, phenomena, and forces that exist independent of individual characters or stories.
+- `.github/copilot-instructions.md`
 
-Think of tiezerk as the *physics layer* of the world: Quantum Forest, Spacetime Sea,
-Tablerock, and their kin. These are **places and phenomena that contain** other things,
-not things contained within a place.
+Before working in this repository, read:
 
----
+1. `.github/copilot-instructions.md`
+2. `GENERAL_COPILOT_INSTRUCTIONS.md`
 
-## Repository Identity
-
-| Field | Value |
-|---|---|
-| Tier | 1 — Universal Hub |
-| Scope | Cosmic / Environmental / Phenomenological |
-| Counterpart | ashkharh (individual entities), nexusiam (play/dev environments) |
-| Tone | Vast, foundational, elemental |
-| Voice | The mountain, not the climber |
-
----
-
-## What belongs in tiezerk
-
-✅ **Environments and biomes** — Quantum Forest, Spacetime Sea, Tablerock, Void Marrow
-✅ **Universal forces and phenomena** — wormholes, void tubes, field dynamics
-✅ **Cosmological frameworks** — the Prime Progression as landscape, chronomantic geography
-✅ **Cross-system connective tissue** — protocols that link all repos/worlds
-✅ **Elemental concept definitions** — the "physics rules" of the UNEXUS world
-
-❌ NOT individual characters or entities → those belong in **ashkharh**
-❌ NOT play/testing environments or game mechanics → those belong in **nexusiam**
-❌ NOT governance or advisory structures → those belong in **gubernaculum**
-
----
+If this file is referenced by a tool or link, treat it only as a pointer to the canonical source above.
 
 ## Repository Structure
 
