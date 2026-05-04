@@ -68,8 +68,8 @@ tiezerk/
 │   │   └── OVERVIEW.md
 │   └── void-marrow/
 │       ├── README.md
-│       ├── WORMHOLES.md
-│       └── VOID_TUBES.md
+│       ├── wormholes.md
+│       └── void-tubes.md
 │
 ├── phenomena/
 │   ├── README.md
