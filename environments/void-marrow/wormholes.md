@@ -34,7 +34,7 @@ Wormholes are the valves of Void Marrow — points of puncture between locations
 
 1. **Identify the class** — assess stability and duration before committing to entry; Class III wormholes require rapid decision-making
 2. **Note entry time** — record when you entered; duration estimates depend on when the wormhole was first observed
-3. **Do not pause mid-traverse** — wormhole interiors do not support sustained presence; if a wormhole collapses during transit, the traveler is displaced into void-tube space (see [void-tubes.md](void-tubes.md))
+3. **Do not pause mid-traverse** — wormhole interiors do not support sustained presence; if a wormhole collapses during transit, the traveler is displaced into the nearest accessible void-tube interior; from there, follow the void-tube exit protocol — reduce movement, allow the tube's resonance flow to carry you toward an exit, and restore your guide frequency before navigating onward (see [void-tubes.md](void-tubes.md) for the full in-tube and exit protocol)
 4. **Prepare for disorientation on exit** — all wormhole exits produce a period of spatial and temporal disorientation; do not make navigational decisions immediately on exit
 5. **Log exit coordinates** — contribute exit-point data to the luminescence map; Class II and III wormhole exit data is valuable for navigation
 
