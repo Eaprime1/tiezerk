@@ -181,8 +181,8 @@ When generating or suggesting content for tiezerk:
 ---
 
 ## Quick Reference: Copy-Paste for Repo Setup
-
-> See **COPILOT_SETUP_POINTER.md** in this repo root for the section to copy into
+> Copy the relevant guidance from this section into GitHub's Copilot repository
+> instructions UI during initial setup.
 > GitHub's Copilot repository instructions UI during initial setup.
 
 ---
