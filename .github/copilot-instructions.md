@@ -41,19 +41,20 @@ not things contained within a place.
 
 ---
 
-## Repository Structure
+## Repository Structure (Proposed)
+
+> The following is a **proposed/aspirational** layout for tiezerk as it grows.
+> The current repo contains `README.md`, `.github/copilot-instructions.md` (this file),
+> and `.github/workflows/` with existing CI/automation workflows.
 
 ```
 tiezerk/
 ├── README.md                    # Welcome, orientation, navigation
 ├── NAVIGATION.md                # How to traverse tiezerk and connect outward
 ├── WITNESSMARK.md               # Transaction / provenance protocol
-├── COPILOT_SETUP_POINTER.md     # Setup instructions for Copilot UI
 ├── .github/
-│   ├── copilot-instructions.md  # This file
-│   └── workflows/
-│       ├── launch-readiness.yml
-│       └── refinement.yml
+│   ├── copilot-instructions.md  # This file — Copilot repository instructions
+│   └── workflows/               # CI/automation workflows
 │
 ├── environments/
 │   ├── quantum-forest/
@@ -180,12 +181,18 @@ When generating or suggesting content for tiezerk:
 
 ---
 
-## Quick Reference: Copy-Paste for Repo Setup
-> Copy the relevant guidance from this section into GitHub's Copilot repository
-> instructions UI during initial setup.
-> GitHub's Copilot repository instructions UI during initial setup.
+## Copilot Setup
+
+To activate these instructions in GitHub's Copilot UI:
+1. Navigate to the repository settings → Copilot → Repository instructions.
+2. Point to `.github/copilot-instructions.md` (this file) or paste its contents directly.
+3. Save and confirm the instructions are active before beginning a Copilot session.
 
 ---
 
 *tiezerk — where the universal lives. The forest does not ask why it grows.*
 *🪶 202605040000*
+
+---
+
+*♓*
