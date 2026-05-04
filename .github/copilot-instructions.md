@@ -4,10 +4,11 @@ This is the **tiezerk** repository — **Universal Concepts** — within the `ea
 
 ## Before Generating Any Code or Content
 
-Read the following files in order:
+Follow the instructions in this file.
 
-1. `.github/copilot-instructions.md` — tiezerk-specific instructions (this file: scope, structure, conventions)
-2. `GENERAL_COPILOT_INSTRUCTIONS.md` — ecosystem-wide principles that apply to all repos
+Then read the following file:
+
+1. `GENERAL_COPILOT_INSTRUCTIONS.md` — ecosystem-wide principles that apply to all repos
 
 ---
 
