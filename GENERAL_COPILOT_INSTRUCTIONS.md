@@ -44,14 +44,14 @@ a deliberate acknowledgement that the content has been reviewed and is ready.
 | Commit messages | `[type]: [environment] — [description]` | `feat: void-marrow — seed initial structure` |
 | Branch names | `feature/[environment]-[aspect]` | `feature/tablerock-foundation` |
 | Workflow files | lowercase-kebab-case | `dependency-review.yml` |
-| Action versions | Pinned to major tag | `actions/checkout@v4` |
+| Action versions | GitHub actions pinned to major tags; third-party actions pinned to full commit SHAs | `actions/checkout@v4`, `codacy/codacy-analysis-cli-action@<full-sha>` |
 
 ---
 
 ## Security and Workflow Standards
 
 - All GitHub Actions workflows live in `.github/workflows/`.
-- Pin all third-party actions to a major version tag (e.g., `@v4`).
+- Pin GitHub-maintained actions to a major version tag (for example, `actions/checkout@v4`) and pin third-party actions to a full commit SHA for supply-chain security.
 - Add `permissions` blocks to limit token scope to the minimum required.
 - Add `timeout-minutes` to every job to prevent runaway workflows.
 - Use `concurrency` groups to avoid overlapping runs on the same branch.
