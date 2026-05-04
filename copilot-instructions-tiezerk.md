@@ -48,6 +48,7 @@ tiezerk/
 ├── README.md                    # Welcome, orientation, navigation
 ├── NAVIGATION.md                # How to traverse tiezerk and connect outward
 ├── WITNESSMARK.md               # Transaction / provenance protocol
+├── COPILOT_SETUP_POINTER.md     # Setup instructions for Copilot UI
 ├── .github/
 │   ├── copilot-instructions.md  # This file
 │   └── workflows/
