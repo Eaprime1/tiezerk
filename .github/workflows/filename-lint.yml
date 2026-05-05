@@ -1,0 +1,107 @@
+name: Filename Lint
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+concurrency:
+  group: filename-lint-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    name: Check filenames
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect changed files
+        id: changed
+        run: |
+          git diff --name-only origin/${{ github.base_ref }}...HEAD > changed_files.txt
+          echo "Changed files:"
+          cat changed_files.txt
+
+      - name: Check filenames
+        run: |
+          # Protocol/root files allowed to use ALLCAPS or mixed case
+          ALLOWLIST="README.md CLAUDE.md WITNESSMARK.md NAVIGATION.md \
+                     GENERAL_COPILOT_INSTRUCTIONS.md LICENSE CODEOWNERS \
+                     PULL_REQUEST_TEMPLATE.md"
+
+          FAILURES=0
+
+          while IFS= read -r filepath; do
+            # Skip deleted files
+            [ -e "$filepath" ] || continue
+
+            filename=$(basename "$filepath")
+
+            # Skip allowlisted filenames
+            skip=false
+            for allowed in $ALLOWLIST; do
+              if [ "$filename" = "$allowed" ]; then
+                skip=true
+                break
+              fi
+            done
+            $skip && continue
+
+            # Skip hidden dirs (.git, .github, .claude, .codex, .agents)
+            case "$filepath" in
+              .git/*|.github/*|.claude/*|.codex/*|.agents/*) continue ;;
+            esac
+
+            # 1. Spaces in filename
+            if echo "$filename" | grep -qP ' '; then
+              echo "::error file=$filepath::SPACES — filename contains spaces: '$filename'"
+              FAILURES=$((FAILURES+1))
+            fi
+
+            # 2. Non-ASCII characters (emoji, em-dash, math symbols, etc.)
+            if echo "$filename" | grep -qP '[^\x00-\x7F]'; then
+              echo "::error file=$filepath::NON-ASCII — filename contains non-ASCII characters: '$filename'"
+              FAILURES=$((FAILURES+1))
+            fi
+
+            # 3. Double extension (e.g. .md.pdf, .txt.md) — excludes .tar.gz
+            if echo "$filename" | grep -qP '\.[a-z]{1,5}\.[a-z]{1,5}$' && \
+               ! echo "$filename" | grep -qP '\.(tar\.gz|tar\.bz2|tar\.xz)$'; then
+              echo "::error file=$filepath::DOUBLE-EXT — filename has double extension: '$filename'"
+              FAILURES=$((FAILURES+1))
+            fi
+
+            # 4. Uppercase letters (content files only — not matching ALLCAPS protocol pattern)
+            # Allow: all-uppercase base names (handled by allowlist above)
+            # Flag: mixed case like 'PinnacleWorkflow.md' or 'Quantum_Forest.md'
+            base="${filename%.*}"
+            if echo "$base" | grep -qP '[A-Z]'; then
+              echo "::error file=$filepath::UPPERCASE — content filename has uppercase letters: '$filename'"
+              FAILURES=$((FAILURES+1))
+            fi
+
+            # 5. Underscores in content files
+            if echo "$filename" | grep -qP '_'; then
+              echo "::error file=$filepath::UNDERSCORE — content filename uses underscores (use hyphens): '$filename'"
+              FAILURES=$((FAILURES+1))
+            fi
+
+          done < changed_files.txt
+
+          if [ "$FAILURES" -gt 0 ]; then
+            echo ""
+            echo "$FAILURES filename issue(s) found."
+            echo "See frameworks/file-naming-conventions.md for the naming rules."
+            exit 1
+          else
+            echo "All filenames pass."
+          fi
