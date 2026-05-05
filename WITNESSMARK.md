@@ -87,7 +87,7 @@ Documents stay in shadow until they are ready. There is no deadline for emergenc
 
 ## What a Witnessmark Is Not
 
-- Not a guarantee of completeness — shadow-state content can be Witnessmarked
+- Not a guarantee of completeness — Witnessmarked content can still have open edges or later refinements
 - Not a final edit — Witnessmarked content can still evolve
 - Not automatic — it requires a deliberate act of attention
 - Not a rubber stamp — if something isn't ready, it stays in shadow
@@ -95,4 +95,4 @@ Documents stay in shadow until they are ready. There is no deadline for emergenc
 ---
 
 *To witness is to attend. To mark is to remember.*  
-*🪶 20260504*
+*🪶 20260504000000*

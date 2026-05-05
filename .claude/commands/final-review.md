@@ -1,7 +1,7 @@
 ---
 name: final-review
 description: Official Claude review and sign-off workflow for tiezerk. Run before any Witnessmark merge.
-allowed_tools: "Bash, Read, Write, Grep, Glob"
+allowed_tools: "run_terminal_command, read_file, write_to_file, grep_files, list_files"
 ---
 
 # /final-review
@@ -82,9 +82,11 @@ Date: YYYYMMDDHHMMSS
 [Overall: is this set ready for Witnessmark, or what needs to happen first?]
 
 ## Witnessmark Status
+Select one:
 - [ ] Pending — awaiting correction
 - [ ] Recommended — Claude recommends Eric issue the Witnessmark
-- [x] Signed — Claude has signed off (Eric's final Witnessmark still required)
+
+Claude sign-off is recorded by this review itself; Eric's final Witnessmark is still required.
 
 ---
 *🪶 YYYYMMDDHHMMSS*

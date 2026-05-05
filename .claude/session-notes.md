@@ -5,7 +5,7 @@ Running log across all sessions. Most recent entry at top.
 
 ---
 
-## Session 20260504 — Foundation Setup
+## Session 20260504000000 — Foundation Setup
 
 **Branch:** `claude/setup-review-workflow-tQJpa`  
 **Phase:** 1 — Foundation
