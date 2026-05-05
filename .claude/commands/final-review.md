@@ -82,9 +82,11 @@ Date: YYYYMMDDHHMMSS
 [Overall: is this set ready for Witnessmark, or what needs to happen first?]
 
 ## Witnessmark Status
+Select one:
 - [ ] Pending — awaiting correction
 - [ ] Recommended — Claude recommends Eric issue the Witnessmark
-- [ ] Signed — Claude has signed off (Eric's final Witnessmark still required)
+
+Claude sign-off is recorded by this review itself; Eric's final Witnessmark is still required.
 
 ---
 *🪶 YYYYMMDDHHMMSS*
