@@ -33,7 +33,7 @@ lowercase-kebab-case.ext
 
 ---
 
-## Exceptions — Allowed Uppercase Root Files
+## Exceptions — Allowed Non-Conforming Root Files
 
 These protocol and root files use ALLCAPS or mixed case by convention:
 
