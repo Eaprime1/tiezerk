@@ -1,7 +1,7 @@
 ---
 name: final-review
 description: Official Claude review and sign-off workflow for tiezerk. Run before any Witnessmark merge.
-allowed_tools: "Bash, Read, Write, Grep, Glob"
+allowed_tools: "run_terminal_command, read_file, write_to_file, grep_files, list_files"
 ---
 
 # /final-review
