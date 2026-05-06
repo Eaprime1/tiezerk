@@ -78,7 +78,7 @@ These questions remain open by design:
 
 ## Links Forward
 
-- `properties.md` — seed properties for resonance, entanglement, and growth
+- [properties.md](properties.md) — seed properties for resonance, entanglement, and growth
 - `../../phenomena/emergence/` — future cross-environment emergence framework
 - `../../phenomena/field-dynamics/` — future field interaction framework
 
