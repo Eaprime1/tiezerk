@@ -18,7 +18,7 @@ In tiezerk, the Quantum Forest belongs to the universal concepts layer: it descr
 
 ---
 
-## Core Nature
+## Properties
 
 | Aspect | Seed Description |
 |---|---|
@@ -27,10 +27,6 @@ In tiezerk, the Quantum Forest belongs to the universal concepts layer: it descr
 | Entangled Growth | What grows in one place may alter what becomes possible elsewhere. |
 | Branching Possibility | Paths do not only divide; they remember each other. |
 | Living Pattern | The forest is readable, but never completely reducible. |
-
----
-
-## Field Behavior
 
 The Quantum Forest behaves as a living field of potential. Its laws are expressed through growth, recurrence, echoes, and alignment.
 
@@ -45,9 +41,28 @@ A seed planted here may become:
 
 Nothing in the Quantum Forest is fully isolated. Roots, branches, spores, songs, and shadows may all carry relational information.
 
+For detailed property rules and growth states, see [properties.md](properties.md).
+
 ---
 
-## What Belongs Here
+## Relationships
+
+This environment connects outward in the following ways:
+
+| Direction | Relationship |
+|---|---|
+| ashkharh | Character-specific stories that unfold within the Quantum Forest belong in `ashkharh`. |
+| nexusiam | Playable implementations of Quantum Forest mechanics belong in `nexusiam`. |
+| gubernaculum | Governance and ethical handling of forest-level forces belong in `gubernaculum`. |
+| Spacetime Sea | Tides may carry forest signals across temporal distance. |
+| Tablerock | Forest roots may test, soften, or reveal structural law. |
+| Void Marrow | Hidden rootways may resemble void tubes or wormhole precursors. |
+
+---
+
+## Navigation
+
+The Quantum Forest is entered through resonance before it is entered through intention.
 
 This environment may contain universal concepts such as:
 
@@ -60,11 +75,9 @@ This environment may contain universal concepts such as:
 - branching probability
 - seed-to-canopy transformation
 
-Character-specific stories belong in `ashkharh`. Playable implementations belong in `nexusiam`. Governance and ethical handling belong in `gubernaculum`.
-
 ---
 
-## Shadow Questions
+## Seeds Forward
 
 These questions remain open by design:
 
@@ -74,15 +87,13 @@ These questions remain open by design:
 4. What does the forest remember?
 5. What kinds of entities can safely traverse it?
 
----
+**Planned connections** *(not yet created)*:
 
-## Links Forward
-
-- [properties.md](properties.md) — seed properties for resonance, entanglement, and growth
-- `../../phenomena/emergence/` — future cross-environment emergence framework
-- `../../phenomena/field-dynamics/` — future field interaction framework
+- `phenomena/emergence/` — future cross-environment emergence framework
+- `phenomena/field-dynamics/` — future field interaction framework
 
 ---
 
 *The forest does not ask why it grows.*  
-*🪶 shadow seed — 20260505*
+*🪶 shadow seed — 20260505*  
+*♓*

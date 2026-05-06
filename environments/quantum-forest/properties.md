@@ -76,9 +76,10 @@ This document plants the first property set for the Quantum Forest. These are no
 - Define resonance measurement without reducing mystery.
 - Distinguish branch memory from ordinary history.
 - Explore whether Quantum Forest paths can be navigated, cultivated, or only encountered.
-- Connect emergence mechanics to the planned `phenomena/emergence/` location.
+- Connect emergence mechanics to the planned `phenomena/emergence/` location *(not yet created)*.
 
 ---
 
 *Roots speak before branches answer.*  
-*🪶 shadow seed — 20260505*
+*🪶 shadow seed — 20260505*  
+*♓*
