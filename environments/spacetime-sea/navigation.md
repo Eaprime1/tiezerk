@@ -167,7 +167,7 @@ Future documents may define instruments more precisely. For now, possible instru
 | Vessel | Carries identity, history, damage, and passage. |
 | Invocation | Opens a route through attention and speech. |
 | Sounding Line | Measures depth, pressure, and safe descent. |
-| Ka Compass | Detects pressure changes in essence, energy, and will. |
+| Ka Compass | Detects pressure changes in essence, vigor, and will. |
 | Emotional Barometer | Reads Pathos, Phrike, and Achos as weather. |
 
 ---
