@@ -1,4 +1,15 @@
-# WITNESSMARK — tiezerk
+## Future Iterations
+- Develop a formal Witnessmark registry for cross-repo verification.
+- Automate Witnessmark logging via CI/CD pipelines.
+- Integrate Witnessmark status into the UNEXUS dashboard.
+
+---
+
+*The witness does not create. The witness sees.*
+*🪶 202605040000*
+
+🃏
+*♓*
 
 *Provenance and witnessing protocol for the UNEXUS ecosystem.*
 
