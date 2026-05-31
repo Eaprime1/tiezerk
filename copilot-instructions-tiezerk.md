@@ -46,9 +46,9 @@ tiezerk/
 │
 ├── phenomena/
 │   ├── README.md
-│   ├── emergence/
-│   ├── field-dynamics/
-│   └── connection-protocols/
+│   ├── emergence/              # planned/uncreated; add placeholder file when instantiated
+│   ├── field-dynamics/         # planned/uncreated; add placeholder file when instantiated
+│   └── connection-protocols/   # planned/uncreated; add placeholder file when instantiated
 │
 ├── frameworks/
 │   ├── prime-progression-landscape.md
