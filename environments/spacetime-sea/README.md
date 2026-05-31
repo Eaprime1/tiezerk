@@ -123,8 +123,8 @@ Their full narrative, characterization, and scene development belong outside tie
 
 - `navigation.md` — seed navigation mechanics for Altum and the Spacetime Sea
 - `altum-cosmology.md` — focused cosmology bridge for dark medium, Ka, and emotional weather
-- `../../phenomena/field-dynamics/` — future cross-environment field mechanics
-- `../../frameworks/chronomantic-geography.md` — future time-as-terrain framework
+- Future item: field dynamics — cross-environment field mechanics
+- Future item: chronomantic geography — time-as-terrain framework
 
 ---
 
