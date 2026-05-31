@@ -12,13 +12,13 @@ Phenomena are the active forces, processes, and events that occur within or betw
 
 ## Phenomena Categories
 
-### [Emergence](emergence/)
+### Emergence *(planned)*
 The process by which new structures, patterns, or entities arise from simpler underlying conditions. Emergence is observed across all tiezerk environments and is one of the fundamental forces of the UNEXUS world. It cannot be forced, but it can be seeded.
 
-### [Field Dynamics](field-dynamics/)
+### Field Dynamics *(planned)*
 The behavior of the various resonance fields, probability fields, and temporal fields that permeate the tiezerk environments. Field dynamics describes how fields interact, interfere, amplify, and dampen each other.
 
-### [Connection Protocols](connection-protocols/)
+### Connection Protocols *(planned)*
 The formal and informal protocols that govern how environments connect to each other, how entities move between them, and how the crossover points (wormholes, void tubes, boundary zones) are managed.
 
 ---
