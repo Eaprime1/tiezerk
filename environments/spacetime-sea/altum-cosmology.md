@@ -160,7 +160,7 @@ These names are preserved here as universal touchpoints, not full character doss
 ## Seeds Forward
 
 - Define Ka-pressure mechanics without over-mechanizing mystery.
-- Create `navigation.md` for tides, currents, ascent/descent, doldrums, and Sargasso zones.
+- Refine navigation mechanics for tides, currents, ascent/descent, doldrums, and Sargasso zones.
 - Clarify whether emotional currents are measurable, ritual, symbolic, or all three.
 - Map how Altum touches Void Marrow without duplicating void-tube mechanics.
 - Preserve cold comfort as legitimate refuge, not failure.
