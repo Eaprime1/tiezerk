@@ -1,4 +1,4 @@
-# Quantum Forest — Properties
+---
 
 *Enumerable characteristics of the Quantum Forest.*
 
