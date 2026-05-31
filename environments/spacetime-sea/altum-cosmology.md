@@ -63,7 +63,7 @@ This equation marks bounded infinity within the sea. The whole remains whole eve
 | Aspect | Seed Meaning |
 |---|---|
 | Essence | What a thing is beneath appearance. |
-| Energy | What moves, charges, disturbs, or circulates. |
+| Vigor | What moves, charges, disturbs, or circulates. |
 | Will | Directional interiority; the choosing pressure of becoming. |
 
 ---
