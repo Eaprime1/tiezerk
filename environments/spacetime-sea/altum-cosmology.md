@@ -41,13 +41,14 @@ pure-black -> void-dark -> light-emf -> white-pure
 
 The spectrum describes manifestation through the dark medium. It should not be flattened into good-versus-evil symbolism.
 
-| Zone | Seed Meaning |
-|---|---|
-| pure-black | Deepest commonality; pre-form field; protected mystery. |
-| void-dark | Hidden passage, suspension, abyssal transit. |
-| light-emf | Electromagnetic expression, signal, visibility, disturbance. |
-| white-pure | Maximum expression or clarification; not automatically superior. |
-
+44:| Zone | Seed Meaning |
+45:|---|---|
+46:| pure-black | Deepest commonality; pre-form field; protected mystery. |
+47:| void-dark | Hidden passage, suspension, abyssal transit. |
+48:| light-emf | Electromagnetic expression, signal, visibility, disturbance. |
+49:| white-pure | Maximum expression or clarification; not automatically superior. |
+50:
+51:---
 ---
 
 ## Fundamental Unity
