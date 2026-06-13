@@ -15,11 +15,6 @@ A **Witnessmark** is a timestamped declaration that a document, concept, or stru
 It is not approval. It is witnessing.
 
 ---
-
-## Format
-
----
-
 ## What a Witnessmark Is
 
 A Witnessmark is a deliberate, recorded acknowledgement that a piece of content has been:
