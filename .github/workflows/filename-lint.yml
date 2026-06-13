@@ -34,6 +34,8 @@ jobs:
       - name: Check filenames
         run: |
           # Protocol/root files allowed to use ALLCAPS or mixed case
+          # NOTE: COPILOT_SETUP_POINTER.md was renamed to copilot-setup-pointer.md (2026-06-13)
+          #       to enforce naming conventions. Do not add it back here.
           ALLOWLIST="README.md CLAUDE.md WITNESSMARK.md NAVIGATION.md \
                      GENERAL_COPILOT_INSTRUCTIONS.md LICENSE CODEOWNERS \
                      PULL_REQUEST_TEMPLATE.md"

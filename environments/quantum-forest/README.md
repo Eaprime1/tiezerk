@@ -1,4 +1,6 @@
 # Quantum Forest
+
+*A living probability field — where observation and reality negotiate.*
 *tiezerk — Universal Concepts Layer*
 
 lifecycle: shadow  
@@ -10,11 +12,7 @@ status: seed
 
 ## Identity
 
-The **Quantum Forest** is the environment of resonance, emergence, and entangled growth.
-
-It is not merely a place with trees. It is a field where possibility branches, signals root, and unseen relationships become visible through pattern, rhythm, and response.
-
-In tiezerk, the Quantum Forest belongs to the universal concepts layer: it describes a physics of becoming, not a single character, faction, or scene.
+The Quantum Forest is a vast, self-generating environment of entangled probability structures — a physics of becoming. See [overview.md](overview.md) for full articulation.
 
 ---
 
@@ -62,7 +60,10 @@ This environment connects outward in the following ways:
 
 ## Navigation
 
-The Quantum Forest is entered through resonance before it is entered through intention.
+- [overview.md](overview.md) — full articulation of the Quantum Forest's nature and structure
+- [properties.md](properties.md) — enumerable characteristics and field dynamics
+
+Approach the Quantum Forest by resonance, not by path. There are no fixed gates. Frequency of attention determines the point of entry. Begin at the edge: listen for the hum of possibility collapsing into the particular.
 
 This environment may contain universal concepts such as:
 
@@ -96,4 +97,5 @@ These questions remain open by design:
 
 *The forest does not ask why it grows.*  
 *🪶 shadow seed — 20260505*  
+*🃏 20260613180000*  
 *♓*
