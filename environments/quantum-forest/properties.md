@@ -1,3 +1,6 @@
+# Quantum Forest Properties
+*tiezerk — Universal Concepts Layer*
+
 ---
 
 *Enumerable characteristics of the Quantum Forest.*
@@ -44,11 +47,6 @@
 
 *State: shadow*
 *🪶 202605040000*
-
-
-# Quantum Forest Properties
-*tiezerk — Universal Concepts Layer*
-
 lifecycle: shadow  
 timestamp: 20260505000000  
 environment: quantum-forest  
