@@ -30,7 +30,9 @@ tiezerk/
 ├── environments/
 │   ├── quantum-forest/
 │   │   ├── README.md
-│   │   ├── OVERVIEW.md
+rename environments/quantum-forest/OVERVIEW.md to environments/quantum-forest/quantum-forest-overview.md
+rename environments/spacetime-sea/OVERVIEW.md to environments/spacetime-sea/spacetime-sea-overview.md
+rename environments/tablerock/OVERVIEW.md to environments/tablerock/tablerock-overview.md
 │   │   └── properties.md
 │   ├── spacetime-sea/
 │   │   ├── README.md
