@@ -12,7 +12,7 @@ Tablerock is the oldest stable formation in the UNEXUS world — a vast, flat ge
 
 ## Navigation
 
-- [OVERVIEW.md](OVERVIEW.md) — full articulation of Tablerock's nature and witnessing function
+- [overview.md](overview.md) — full articulation of Tablerock's nature and witnessing function
 
 ---
 
@@ -24,6 +24,7 @@ Arrive at the edge of Tablerock and sit. There is no other protocol. The rock do
 
 *The mountain does not ask why it stands.*
 *🪶 202605040000*
+*🃏 20260613180000*
 
 ---
 

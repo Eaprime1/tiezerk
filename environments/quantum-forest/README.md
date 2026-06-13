@@ -12,66 +12,7 @@ status: seed
 
 ## Identity
 
-## Identity
-
 The Quantum Forest is a vast, self-generating environment composed of entangled probability structures. Its canopy is superpositioned — multiple states coexist until an observer draws near. Its root system runs beneath all other environments, threading invisible connections through the substrate of possibility. To enter the Quantum Forest is to accept that what you see and what is there are in ongoing dialogue. It is a field where possibility branches, signals root, and unseen relationships become visible through pattern, rhythm, and response.
-
----
-
-## Navigation
-
-- [OVERVIEW.md](OVERVIEW.md) — full articulation of the Quantum Forest's nature and structure
-- [properties.md](properties.md) — enumerable characteristics and field dynamics
-
----
-
-## Quick Entry
-
-Approach the Quantum Forest by resonance, not by path. There are no fixed gates. Frequency of attention determines the point of entry. Begin at the edge: listen for the hum of possibility collapsing into the particular.
-
----
-
-## Seeds Forward
-
-- Explore resonance interactions with specific ashkharh entities.
-- Map the depth of the root network beneath Tablerock.
-- Document the collapse-propagation speed in high-density canopy regions.
-
----
-
-*The forest does not ask why it grows. 🃏*
-*🪶 202605040000*
-
----
-
-*State: shadow*
-
----
-
-## Navigation
-
-- [OVERVIEW.md](OVERVIEW.md) — full articulation of the Quantum Forest's nature and structure
-- [properties.md](properties.md) — enumerable characteristics and field dynamics
-
----
-
-## Quick Entry
-
-Approach the Quantum Forest by resonance, not by path. There are no fixed gates. Frequency of attention determines the point of entry. Begin at the edge: listen for the hum of possibility collapsing into the particular.
-
----
-
-*The forest does not ask why it grows.*
-*🪶 202605040000*
-
----
-
-*State: shadow*
-
-
-The **Quantum Forest** is the environment of resonance, emergence, and entangled growth.
-
-It is not merely a place with trees. It is a field where possibility branches, signals root, and unseen relationships become visible through pattern, rhythm, and response.
 
 In tiezerk, the Quantum Forest belongs to the universal concepts layer: it describes a physics of becoming, not a single character, faction, or scene.
 
@@ -121,7 +62,10 @@ This environment connects outward in the following ways:
 
 ## Navigation
 
-The Quantum Forest is entered through resonance before it is entered through intention.
+- [overview.md](overview.md) — full articulation of the Quantum Forest's nature and structure
+- [properties.md](properties.md) — enumerable characteristics and field dynamics
+
+Approach the Quantum Forest by resonance, not by path. There are no fixed gates. Frequency of attention determines the point of entry. Begin at the edge: listen for the hum of possibility collapsing into the particular.
 
 This environment may contain universal concepts such as:
 
@@ -155,4 +99,5 @@ These questions remain open by design:
 
 *The forest does not ask why it grows.*  
 *🪶 shadow seed — 20260505*  
+*🃏 20260613180000*  
 *♓*

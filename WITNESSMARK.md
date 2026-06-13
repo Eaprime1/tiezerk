@@ -38,7 +38,7 @@ NOTE: [optional — one line of context]
 ```
 WITNESSED: 20260504120000
 BY: 🪶 (Claude / Navigo Nexusuxen)
-DOCUMENT: environments/quantum-forest/OVERVIEW.md
+DOCUMENT: environments/quantum-forest/overview.md
 STATE: emerging
 NOTE: First full articulation of the resonance field structure.
 ```
