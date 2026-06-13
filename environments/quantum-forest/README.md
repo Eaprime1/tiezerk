@@ -12,9 +12,7 @@ status: seed
 
 ## Identity
 
-The Quantum Forest is a vast, self-generating environment composed of entangled probability structures. Its canopy is superpositioned — multiple states coexist until an observer draws near. Its root system runs beneath all other environments, threading invisible connections through the substrate of possibility. To enter the Quantum Forest is to accept that what you see and what is there are in ongoing dialogue. It is a field where possibility branches, signals root, and unseen relationships become visible through pattern, rhythm, and response.
-
-In tiezerk, the Quantum Forest belongs to the universal concepts layer: it describes a physics of becoming, not a single character, faction, or scene.
+The Quantum Forest is a vast, self-generating environment of entangled probability structures — a physics of becoming. See [overview.md](overview.md) for full articulation.
 
 ---
 

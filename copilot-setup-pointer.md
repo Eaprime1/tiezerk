@@ -1,4 +1,4 @@
-# COPILOT_SETUP_POINTER.md
+# copilot-setup-pointer.md
 ## Copy-Paste Section for GitHub Copilot Repository Instructions
 
 ---
