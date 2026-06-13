@@ -20,7 +20,7 @@ tiezerk/
 ├── README.md                    # Welcome, orientation, navigation
 ├── NAVIGATION.md                # How to traverse tiezerk and connect outward
 ├── WITNESSMARK.md               # Transaction / provenance protocol
-├── COPILOT_SETUP_POINTER.md     # Copilot onboarding pointer
+├── copilot-setup-pointer.md     # Copilot onboarding pointer
 ├── GENERAL_COPILOT_INSTRUCTIONS.md  # Ecosystem-wide Copilot guidance
 ├── copilot-instructions-tiezerk.md  # This file — tiezerk Copilot pointer
 ├── .github/
@@ -30,15 +30,15 @@ tiezerk/
 ├── environments/
 │   ├── quantum-forest/
 │   │   ├── README.md
-│   │   ├── OVERVIEW.md
+│   │   ├── overview.md
 │   │   └── properties.md
 │   ├── spacetime-sea/
 │   │   ├── README.md
-│   │   ├── OVERVIEW.md
+│   │   ├── overview.md
 │   │   └── navigation.md
 │   ├── tablerock/
 │   │   ├── README.md
-│   │   └── OVERVIEW.md
+│   │   └── overview.md
 │   └── void-marrow/
 │       ├── README.md
 │       ├── wormholes.md
@@ -154,13 +154,13 @@ When generating or suggesting content for tiezerk:
 
 ## Quick Reference: Copy-Paste for Repo Setup
 
-> See **COPILOT_SETUP_POINTER.md** in this repo root for the section to copy into
+> See **copilot-setup-pointer.md** in this repo root for the section to copy into
 > GitHub's Copilot repository instructions UI during initial setup.
 
 ---
 
 *tiezerk — where the universal lives. The forest does not ask why it grows.*
 *🪶 202605040000*
-
+*🃏 20260613180000*
 
 *♓*
