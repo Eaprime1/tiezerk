@@ -4,6 +4,22 @@
 
 ---
 
+*Provenance and witnessing protocol for the UNEXUS ecosystem.*
+
+---
+
+## What Is a Witnessmark?
+
+A **Witnessmark** is a timestamped declaration that a document, concept, or structure has been seen, verified, and acknowledged by at least one entity before it moves from shadow into emergence — from draft into the public branch.
+
+It is not approval. It is witnessing.
+
+---
+
+## Format
+
+---
+
 ## What a Witnessmark Is
 
 A Witnessmark is a deliberate, recorded acknowledgement that a piece of content has been:
