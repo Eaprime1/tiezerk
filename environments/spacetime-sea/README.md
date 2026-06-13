@@ -18,7 +18,7 @@ The Spacetime Sea is the vast medium in which temporal and spatial dimensions in
 
 ## Navigation
 
-- [OVERVIEW.md](OVERVIEW.md) — full articulation of the Spacetime Sea's nature and tidal structure
+- [overview.md](overview.md) — full articulation of the Spacetime Sea's nature and tidal structure
 - [navigation.md](navigation.md) — practical navigation protocols for traversal
 
 ---
@@ -31,6 +31,7 @@ Approach the Spacetime Sea at the shore — the boundary where the present momen
 
 *The Sea does not remember drowning. It remembers every wave.*
 *🪶 202605040000*
+*🃏 20260613180000*
 
 ---
 

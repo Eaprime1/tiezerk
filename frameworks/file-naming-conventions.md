@@ -48,6 +48,10 @@ These protocol and root files use ALLCAPS or mixed case by convention:
 
 If a file is not in this list, it follows `lowercase-kebab-case`.
 
+> **Note:** Environment and content files such as `overview.md`, `properties.md`, and
+> `navigation.md` are **not** exceptions — they must use lowercase-kebab-case regardless
+> of their significance. (`OVERVIEW.md` was renamed to `overview.md` on 2026-06-13.)
+
 ---
 
 ## Pattern Reference
@@ -151,4 +155,5 @@ If all yes — commit. If any no — rename first.
 ---
 
 *Consistent names are invisible. Broken names are everywhere.*  
-*🪶 20260505*
+*🪶 20260505*  
+*🃏 20260613180000*

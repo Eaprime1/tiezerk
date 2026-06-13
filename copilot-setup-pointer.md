@@ -1,4 +1,4 @@
-# COPILOT_SETUP_POINTER.md
+# copilot-setup-pointer.md
 ## Copy-Paste Section for GitHub Copilot Repository Instructions
 
 ---
@@ -161,6 +161,6 @@ Witnessmark required before public branch merge.
 
 *COPILOT_SETUP_POINTER.md — place in repo root or .github/ directory*
 *🪶 202605040000*
-
+*🃏 20260613180000*
 
 *♓*
